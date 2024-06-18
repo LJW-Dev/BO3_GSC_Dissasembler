@@ -1,0 +1,8 @@
+E:\coding\RTE tool creation\Projects\BO3 GSC\GSC Decompiler\GSCDecompiler\obj\x86\Release\GSCDecompiler.Form1.resources
+E:\coding\RTE tool creation\Projects\BO3 GSC\GSC Decompiler\GSCDecompiler\obj\x86\Release\GSCDecompiler.Properties.Resources.resources
+E:\coding\RTE tool creation\Projects\BO3 GSC\GSC Decompiler\GSCDecompiler\obj\x86\Release\GSCDecompiler.csproj.GenerateResource.Cache
+E:\coding\RTE tool creation\Projects\BO3 GSC\GSC Decompiler\GSCDecompiler\bin\Release\GSCDecompiler.exe
+E:\coding\RTE tool creation\Projects\BO3 GSC\GSC Decompiler\GSCDecompiler\bin\Release\GSCDecompiler.pdb
+E:\coding\RTE tool creation\Projects\BO3 GSC\GSC Decompiler\GSCDecompiler\obj\x86\Release\GSCDecompiler.exe
+E:\coding\RTE tool creation\Projects\BO3 GSC\GSC Decompiler\GSCDecompiler\obj\x86\Release\GSCDecompiler.pdb
+E:\coding\RTE tool creation\Projects\BO3 GSC\GSC Decompiler\GSCDecompiler\obj\x86\Release\GSCDecompiler.csprojResolveAssemblyReference.cache
